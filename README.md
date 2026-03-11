@@ -2,7 +2,7 @@
 
 **Senior AI R&D Engineer** at Deloitte Tohmatsu LLC, Tokyo, Japan 🇯🇵
 
-🌐 **[Visit My Website →](https://shaficse.github.io/shafi/)**
+🌐 **[Visit My Website →](https://shaficse.github.io/)**
 
 ---
 
@@ -44,4 +44,4 @@
 
 ---
 
-⭐ **[Check out my full portfolio →](https://shaficse.github.io/shafi/)**
+⭐ **[Check out my full portfolio →](https://shaficse.github.io/)**
