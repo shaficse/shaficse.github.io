@@ -1189,6 +1189,77 @@ body {
 }
 
 /* ===================================
+   Research Collaborations Section
+   =================================== */
+.collab-intro {
+    text-align: center;
+    color: var(--text-body);
+    max-width: 700px;
+    margin: 0 auto 48px;
+    font-size: 1.05rem;
+    line-height: 1.7;
+}
+
+.collab-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+    gap: 24px;
+}
+
+.collab-card {
+    background: #fff;
+    border: 1px solid var(--border-light);
+    border-radius: var(--radius);
+    padding: 28px 24px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    gap: 16px;
+    box-shadow: var(--shadow-sm);
+    transition: var(--transition);
+}
+
+.collab-card:hover {
+    transform: translateY(-4px);
+    box-shadow: var(--shadow-md);
+    border-color: var(--primary-light);
+}
+
+.collab-logo {
+    width: 100px;
+    height: 64px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.collab-logo img {
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain;
+    filter: grayscale(20%);
+    transition: var(--transition);
+}
+
+.collab-card:hover .collab-logo img {
+    filter: grayscale(0%);
+}
+
+.collab-info h3 {
+    font-size: 0.95rem;
+    font-weight: 600;
+    color: var(--text-dark);
+    margin-bottom: 4px;
+    line-height: 1.4;
+}
+
+.collab-info p {
+    font-size: 0.82rem;
+    color: var(--text-muted);
+}
+
+/* ===================================
    Animations
    =================================== */
 .fade-in {
