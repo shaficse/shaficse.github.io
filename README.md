@@ -17,8 +17,8 @@
 ## 🔭 Current Roles
 
 - **Senior AI R&D Engineer** @ Deloitte Tohmatsu LLC (2023–Present)
-- **Guest Lecturer** @ Dept. of CSE, Begum Rokeya University (2025–Present)
-- **Researcher** @ Smart Data Lab, Asian Institute of Technology (2024–Present)
+- **Guest Lecturer** @ Dept. of CSE, Begum Rokeya University
+- **Researcher** @ Smart Data Lab, Asian Institute of Technology
 
 ## 🛠️ Tech Stack
 
