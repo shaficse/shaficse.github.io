@@ -8,6 +8,8 @@ Thumbs.db
 
 # PDF source
 *.pdf
+# Public CV generated from portfolio content
+!cv.pdf
 
 # IDE
 .vscode/
